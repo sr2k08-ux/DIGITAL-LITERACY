@@ -80,7 +80,11 @@ Description: Created a one-page infographic explaining digital literacy, useful 
  `task-4-email-etiquette/emails.txt` 
 
  `task-4-email-etiquette/social-media-checklist.txt`  
+ https://github.com/sr2k08-ux/DIGITAL-LITERACY/blob/b1f4e2493e304c24369e3feac0e28a69f9a236b2/TASK-4%20Subject%20Application%20for%20Summer%20Inte.txt
 
+
+https://github.com/sr2k08-ux/DIGITAL-LITERACY/blob/b1f4e2493e304c24369e3feac0e28a69f9a236b2/TASK-4%20Subject%20Request%20for%20Assignment%20Dead.txt
+https://github.com/sr2k08-ux/DIGITAL-LITERACY/blob/b1f4e2493e304c24369e3feac0e28a69f9a236b2/TASK-%204%20SOCIAL%20MEDIA%20CHECKLISTDO%E2%80%99s.txt
 
 
  Task 5 – Cybercrime Awareness
@@ -95,6 +99,9 @@ Description: Created a one-page infographic explaining digital literacy, useful 
  `task-5-cybercrime/casestudy.txt`  
 
  `task-5-cybercrime/prevention-checklist.txt`  
+ https://github.com/sr2k08-ux/DIGITAL-LITERACY/blob/b1f4e2493e304c24369e3feac0e28a69f9a236b2/TASK-5%20PHIISHING%20CASE%20STUDY%20%20%20%20%20%20%20Phishing.txt
+ https://github.com/sr2k08-ux/DIGITAL-LITERACY/blob/b1f4e2493e304c24369e3feac0e28a69f9a236b2/TASK%20-5%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt
+ 
 
 
 
@@ -102,6 +109,7 @@ Description: Created a one-page infographic explaining digital literacy, useful 
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
+ https://github.com/sr2k08-ux/DIGITAL-LITERACY/blob/b1f4e2493e304c24369e3feac0e28a69f9a236b2/DIGITAL%20LITERACY%20PROJECT%20REPORT.pdf
 
 
 
